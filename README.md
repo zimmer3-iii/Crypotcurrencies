@@ -1,4 +1,4 @@
-# Crypotcurrencies
+# Cryptocurrencies
 
 ## Overview
 The purpose of this project is to use unsupervised machine learning to analyze cryptocurriences.
